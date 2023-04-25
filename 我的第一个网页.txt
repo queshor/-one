@@ -1,0 +1,41 @@
+<!DOCJTYPE html>
+<html lang="zh-CN">
+ <head>
+  <meta charset="utf-8>
+  <meta name="viewport" content="width=device,initial-scale=1" />
+  <title>守仁的个人网页，希望世界更了解</title>
+<style>
+   body {
+    margin:30px;
+}
+   </style>
+</head>
+<body>
+<div style="
+background-color: #;f1f1f1;
+text-align: center;
+padding: 40px;
+">
+  <img src='https://ts1.cn.mm.bing.net/th/id/R-C.9eb106a12ca1aaaa593d58819eb7c1d8?rik=NI4QhWzi9tMGfA&riu=http%3a%2f%2fwww.52sumiao.com%2fuploads%2fallimg%2f151225%2f141Ka162-0.jpg&ehk=Uz03d1dGBhWD06OU5UvD0sT%2fDz7NF8FCeDpK4UAEikE%3d&risl=&pid=ImgRaw&r=0'alt="守仁“width=70px height=120px>
+   </div>
+<div style="
+max-width :700px;
+margin: 30px auto;
+oadding: 15px;
+line-height: 1.9;
+color:red;
+">
+<p>你好，世界，我是阙守仁</p>
+<p>我来自胡建闽西汀江河中游，从小就爱社会摇，摇啊摇，摇过奈何桥</p>
+<P>生活的意义是什么？这是被生活吊打过的渣渣才会问的问题。神经像钢丝一样的我们，只会对红浪漫38号离职而跺脚。</P>
+</div>
+<div style="background-color: #f1f1f1;
+ text-align:center;
+ padding:40px;
+  font-size: 12px;
+">
+<p>我的网站</p>
+<a href="">友情链接</a>
+/div>
+</body>
+</html>
